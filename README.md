@@ -2,7 +2,7 @@
 
 Right now I'm a software engineering student. I build projects for fun and for assignments. I love video games, and most of my project ideas come from them. 
 
-## 🛠️ Tech I know
+## Tech I know
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +13,7 @@ Right now I'm a software engineering student. I build projects for fun and for a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Fabric](https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logoColor=black)
 
-## 🧰 Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
